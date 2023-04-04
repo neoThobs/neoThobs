@@ -15,3 +15,9 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neothobs)](https://github.com/neothobs/github-readme-stats)
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## Days of code?
+![](https://github-readme-streak-stats.herokuapp.com/?user=neoThobs&theme=gotham&hide_border=false)<br/>
