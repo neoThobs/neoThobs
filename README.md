@@ -21,3 +21,8 @@
 
 ## Days of code?
 ![](https://github-readme-streak-stats.herokuapp.com/?user=neoThobs&theme=gotham&hide_border=false)<br/>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/neoThobs/count.svg" />
+</p>
