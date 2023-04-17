@@ -16,6 +16,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neothobs)](https://github.com/neothobs/github-readme-stats)
 
+<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<img src="https://raw.githubusercontent.com/neothobs/neothobs/snake/github-contribution-grid-snake-dark.svg" width="100%">
+
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
