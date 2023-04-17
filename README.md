@@ -23,9 +23,6 @@
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://raw.githubusercontent.com/neothobs/neothobs/snake/github-contribution-grid-snake-dark.svg" width="100%">
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ## Days of code?
 ![](https://github-readme-streak-stats.herokuapp.com/?user=neoThobs&theme=gotham&hide_border=false)<br/>
 
